@@ -1,0 +1,5 @@
+*~
+*.log
+*.txt
+twitter-rt/data/
+twitter-following-followers/data/
